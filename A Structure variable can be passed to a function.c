@@ -6,7 +6,7 @@ Write your code in this editor and press "Run" button to compile and execute it.
 
 *******************************************************************************/
 
-#include <stdio.h>
+#include <stdio.h>    //NITIN
 #include<string.h>
  typedef struct pokemon{
         char name[10];
